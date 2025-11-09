@@ -42,4 +42,12 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
+## Math
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
