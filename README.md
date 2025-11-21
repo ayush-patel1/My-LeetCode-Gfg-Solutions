@@ -8,6 +8,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
+| [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,16 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Greedy
+|  |
+| ------- |
+| [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
+## Sorting
+|  |
+| ------- |
+| [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
+## Enumeration
+|  |
+| ------- |
+| [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
