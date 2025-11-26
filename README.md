@@ -50,6 +50,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
