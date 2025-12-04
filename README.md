@@ -58,11 +58,13 @@ This repository includes my solution of various questions on LC and GFG.
 ## Simulation
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,4 +97,8 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
