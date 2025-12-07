@@ -23,15 +23,21 @@ public:
 
     int largestPrime(int n) {
         precompute(n);
-        long long s = 0;
-        int ans = 0;
 
-        for (int i = 0; i < primes.size(); i++) {
-            s += primes[i];
-            if (s > n) break;
-            if (s <= n && isPrime[s]) ans = s;
+        vector<long long> prefix(primes.size());
+        if (!primes.empty()) {
+            prefix[0] = primes[0];
+            for (int i = 1; i < primes.size(); i++)
+                prefix[i] = prefix[i - 1] + primes[i];
         }
 
-        return ans;
+        int idx = upper_bound(prefix.begin(), prefix.end(), n) - prefix.begin() - 1;
+        if (idx < 0) return 0;
+
+        while (idx >= 0 && (! (prefix[idx] <= n && prefix[idx] < isPrime.size() && isPrime[prefix[idx]])))
+            idx--;
+
+        if (idx < 0) return 0;
+        return prefix[idx];
     }
 };
