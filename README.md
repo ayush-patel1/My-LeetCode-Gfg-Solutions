@@ -145,4 +145,8 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
