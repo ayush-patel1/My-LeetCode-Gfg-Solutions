@@ -151,5 +151,6 @@ This repository includes my solution of various questions on LC and GFG.
 | [0175-combine-two-tables](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
