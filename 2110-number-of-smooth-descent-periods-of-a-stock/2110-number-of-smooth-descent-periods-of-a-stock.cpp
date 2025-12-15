@@ -19,7 +19,7 @@ public:
         }
 
         ll sm = accumulate(m.begin(), m.end(), 0LL);
-        ll ans = n - sm;
+        ll ans = 0;
         for (int i = 0; i < m.size(); i++) {
             ans += 1LL * m[i] * (m[i] + 1) / 2;
         }
