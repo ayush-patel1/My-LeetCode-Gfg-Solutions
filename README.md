@@ -9,6 +9,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -63,6 +64,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
+| [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
@@ -94,6 +96,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -139,6 +142,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
+| [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +160,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -179,4 +184,8 @@ This repository includes my solution of various questions on LC and GFG.
 | [0596-classes-with-at-least-5-students](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0620-not-boring-movies) |
 | [1193-monthly-transactions-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1193-monthly-transactions-i) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
