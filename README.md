@@ -29,6 +29,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
+| [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [3531-count-covered-buildings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3606-coupon-code-validator) |
@@ -43,6 +44,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
@@ -56,6 +58,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Union Find
 |  |
 | ------- |
+| [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
@@ -67,6 +70,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
+| [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
@@ -146,6 +150,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
+| [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +162,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 ## Segment Tree
 |  |
 | ------- |
@@ -165,6 +171,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
+| [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -193,4 +200,5 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
+| [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 <!---LeetCode Topics End-->
