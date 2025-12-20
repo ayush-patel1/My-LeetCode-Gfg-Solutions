@@ -51,19 +51,23 @@ This repository includes my solution of various questions on LC and GFG.
 ## Depth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
@@ -116,6 +120,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3531-count-covered-buildings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3606-coupon-code-validator) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
