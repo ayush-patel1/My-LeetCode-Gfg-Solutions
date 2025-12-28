@@ -13,6 +13,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -151,6 +152,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Geometry
 |  |
@@ -170,6 +172,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 ## Divide and Conquer
