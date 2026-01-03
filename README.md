@@ -156,6 +156,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
