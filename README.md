@@ -68,6 +68,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -257,10 +258,12 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
