@@ -42,6 +42,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -69,6 +70,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -78,6 +80,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
@@ -261,12 +264,14 @@ This repository includes my solution of various questions on LC and GFG.
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
