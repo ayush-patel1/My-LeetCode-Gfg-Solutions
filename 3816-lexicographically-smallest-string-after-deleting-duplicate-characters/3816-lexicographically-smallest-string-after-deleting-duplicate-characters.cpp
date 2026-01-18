@@ -1,46 +1,33 @@
 class Solution {
 public:
     string lexSmallestAfterDeletion(string s) {
-        vector<int> freq(26, 0), used(26, 0);
-        for(char c : s) freq[c - 'a']++;
-
         stack<char> st;
+        int n=s.size();
+        vector<int> freq(26,0);
+        for(int i=0;i<n;i++){
+            freq[s[i]-'a']++;
+        }
 
-        for(char c : s) {
-            int x = c - 'a';
-            freq[x]--;
-
-            while(!st.empty()) {
-                char t = st.top();
-                int y = t - 'a';
-                if(t > c && used[y] + freq[y] > 1) {
-                    st.pop();
-                    used[y]--;
-                } else break;
+        for(int i=0;i<n;i++){     
+            while(!st.empty() && s[i]<st.top() && freq[st.top()-'a']>1){
+                freq[st.top()-'a']--;
+                st.pop();
             }
-
-            st.push(c);
-            used[x]++;
+            st.push(s[i]);
         }
 
         string ans;
-        while(!st.empty()) {
-            ans.push_back(st.top());
+        while(!st.empty()){
+            ans+=st.top();
             st.pop();
         }
-        reverse(ans.begin(), ans.end());
-
-        while(ans.size() > 1) {
-            char last = ans.back();
-            bool found = false;
-            for(int i = 0; i < (int)ans.size() - 1; i++) {
-                if(ans[i] == last) {
-                    found = true;
-                    break;
-                }
-            }
-            if(found) ans.pop_back();
-            else break;
+        reverse(ans.begin(),ans.end());
+        
+        int i=(int)ans.size()-1;       
+        while(i>=0 && freq[ans[i]-'a']>1){    
+            freq[ans[i]-'a']--;
+            ans.pop_back();
+            i--;
         }
 
         return ans;
