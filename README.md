@@ -39,6 +39,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -69,6 +70,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3583-count-special-triplets) |
@@ -81,6 +83,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Heap (Priority Queue)
@@ -90,6 +93,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
