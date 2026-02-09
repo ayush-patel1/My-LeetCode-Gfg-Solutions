@@ -111,6 +111,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
@@ -211,6 +212,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
@@ -305,6 +307,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -359,6 +362,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -369,6 +373,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Monotonic Stack
 |  |
@@ -408,4 +413,8 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
