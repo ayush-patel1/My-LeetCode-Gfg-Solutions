@@ -198,6 +198,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0190-reverse-bits) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -316,6 +317,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
