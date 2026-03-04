@@ -28,6 +28,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -285,6 +286,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1975-maximum-matrix-sum) |
