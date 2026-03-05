@@ -200,6 +200,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2800-shortest-string-that-contains-three-strings) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3606-coupon-code-validator](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -235,6 +236,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1975-maximum-matrix-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2800-shortest-string-that-contains-three-strings) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
@@ -278,6 +280,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2420-find-all-good-indices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2420-find-all-good-indices) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3640-trionic-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3640-trionic-array-ii) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
