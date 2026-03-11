@@ -189,6 +189,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## String
 |  |
 | ------- |
+| [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0696-count-binary-substrings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -275,6 +276,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
+| [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
