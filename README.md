@@ -205,6 +205,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2288-apply-discount-to-prices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2288-apply-discount-to-prices) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
