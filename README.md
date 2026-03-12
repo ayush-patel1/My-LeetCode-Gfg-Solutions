@@ -248,6 +248,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
@@ -341,6 +342,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3453-separate-squares-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3453-separate-squares-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -451,6 +453,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Graph Theory
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -481,4 +484,9 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1998-gcd-sort-of-an-array) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
