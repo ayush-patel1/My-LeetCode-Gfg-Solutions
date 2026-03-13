@@ -1,30 +1,34 @@
 class Solution {
 public:
-    long long timeTotal(int height, int wTime) {
-        return static_cast<long long>(height) * (height + 1) / 2 * wTime;
-    }
-    bool isPossible(long long time, int mountainHeight, const vector<int>& workerTimes) {
-        long long totalHeight = 0;
-        for (long long wTime : workerTimes) {
-            double workerHeight = (-1 + sqrt(1 + 8.0 * time / wTime)) / 2;
-            totalHeight += static_cast<int>(workerHeight);
-            if (totalHeight >= mountainHeight) {
-                return true;
-            }
+#define ll long long
+
+bool check(ll t,ll h,vector<int>&arr){
+    ll tot=0;
+    for(auto &w:arr){
+        ll l=0,r=1e6,k=0;
+        while(l<=r){
+            ll mid=(l+r)/2;
+            if((mid*(mid+1)/2)*w<=t){
+                k=mid;
+                l=mid+1;
+            }else r=mid-1;
         }
-        return false;
+        tot+=k;
     }
-    long long minNumberOfSeconds(int mountainHeight, vector<int>& workerTimes) {
-        long long left = 0;
-        long long right = 1e18;
-        while (left < right) {
-            long long mid = left + (right - left) / 2;
-            if (isPossible(mid, mountainHeight, workerTimes)) {
-                right = mid;
-            } else {
-                left = mid + 1;
-            }
-        }
-        return left;
+    return tot>=h;
+}
+
+long long minNumberOfSeconds(int mountainHeight, vector<int>& workerTimes) {
+    ll l=1,r=(ll)mountainHeight*(*max_element(workerTimes.begin(),workerTimes.end()))*mountainHeight;
+    ll ans=r;
+
+    while(l<=r){
+        ll mid=(l+r)/2;
+        if(check(mid,mountainHeight,workerTimes)){
+            ans=mid;
+            r=mid-1;
+        }else l=mid+1;
     }
+    return ans;
+}
 };
