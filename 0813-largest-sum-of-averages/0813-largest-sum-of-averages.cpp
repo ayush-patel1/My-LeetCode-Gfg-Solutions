@@ -13,7 +13,7 @@ public:
 
         if (dp[idx][k] != -1) return dp[idx][k];
 
-        double ans = 0;
+        double ans = -1e9;
 
         for (int i = idx; i < n; i++) {
             double curr = (double)(pre[i] - (idx > 0 ? pre[idx-1] : 0)) / (i - idx + 1);
