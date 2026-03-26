@@ -9,14 +9,15 @@ public:
             string s = to_string(nums[i]);
             if (mp.find(s) != mp.end()) {
                 minGap = min(minGap, i - mp[s]);
-                if (minGap == 1)
-                    return 1;
             }
-            while (s.back() == '0' && s.size() > 1)
-                s.pop_back();
-            reverse(s.begin(), s.end());
 
-            mp[s] = i;
+            string t = s;
+            reverse(t.begin(), t.end());
+
+            while (t.size() > 1 && t[0] == '0')
+                t.erase(t.begin());
+
+            mp[t] = i;
         }
 
         return (minGap == INT_MAX) ? -1 : minGap;
