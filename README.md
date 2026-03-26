@@ -142,6 +142,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -220,6 +221,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## String
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0696-count-binary-substrings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -462,6 +464,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0901-online-stock-span) |
@@ -561,4 +564,8 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
