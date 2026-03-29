@@ -243,6 +243,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2288-apply-discount-to-prices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2288-apply-discount-to-prices) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2800-shortest-string-that-contains-three-strings) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3606-coupon-code-validator](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3606-coupon-code-validator) |
