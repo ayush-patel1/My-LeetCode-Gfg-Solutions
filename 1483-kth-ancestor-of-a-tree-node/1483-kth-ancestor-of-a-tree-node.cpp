@@ -14,7 +14,7 @@ public:
     }
 
     int find(int k, int node) {
-        for (int i = 0; i < MAX; i++) {
+        for (int i = MAX; i >=0; i--) {
             if ((1 << i) & k) {
                 node = dp[i][node];
                 if (node == -1) break;
