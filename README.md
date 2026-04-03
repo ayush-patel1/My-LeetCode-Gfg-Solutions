@@ -57,6 +57,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2906-construct-product-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -266,6 +267,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1009-complement-of-base-10-integer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Prefix Sum
 |  |
@@ -353,6 +355,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2420-find-all-good-indices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2420-find-all-good-indices) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
