@@ -226,6 +226,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -247,6 +248,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2288-apply-discount-to-prices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2288-apply-discount-to-prices) |
