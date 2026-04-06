@@ -230,6 +230,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0657-robot-return-to-origin](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2069-walking-robot-simulation-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -494,6 +495,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0901-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2069-walking-robot-simulation-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 ## Tree
