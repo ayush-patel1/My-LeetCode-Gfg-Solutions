@@ -227,6 +227,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -238,6 +239,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0657-robot-return-to-origin](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0696-count-binary-substrings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
