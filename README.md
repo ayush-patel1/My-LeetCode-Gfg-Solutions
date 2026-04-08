@@ -92,6 +92,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3643-flip-square-submatrix-vertically](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
@@ -121,6 +122,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3606-coupon-code-validator](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -298,6 +300,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
@@ -370,6 +373,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3640-trionic-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3640-trionic-array-ii) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Matrix
 |  |
