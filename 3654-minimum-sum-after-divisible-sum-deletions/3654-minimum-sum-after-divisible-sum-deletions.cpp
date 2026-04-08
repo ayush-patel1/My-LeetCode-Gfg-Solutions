@@ -13,26 +13,40 @@ public:
             pre[i] = cur;
             tot += nums[i];
         }
-        
+
         vector<ll> dp(n, 0);
-        unordered_map<int,ll> mp;
-        
-        mp[0] = 0;
-        
+        unordered_map<int,int> mp;
+
+        mp[0] = -1;  // base case
+
         for(int i = 0; i < n; i++){
             int rem = pre[i] % k;
-            if(rem < 0) rem += k;
-            
             dp[i] = (i > 0 ? dp[i-1] : 0);
-            
+
             if(mp.find(rem) != mp.end()){
-                dp[i] = max(dp[i], mp[rem] + pre[i]);
-                mp[rem] = max(mp[rem], dp[i] - pre[i]);
+                int j = mp[rem];
+                
+                ll sub = pre[i] - (j == -1 ? 0 : pre[j]);
+                ll prev = (j == -1 ? 0 : dp[j]);
+                
+                dp[i] = max(dp[i], prev + sub);
+            }
+
+            // update best j
+            if(mp.find(rem) == mp.end()){
+                mp[rem] = i;
             } else {
-                mp[rem] = dp[i] - pre[i];
+                int j = mp[rem];
+                
+                ll prev = (j == -1 ? 0 : dp[j]) - (j == -1 ? 0 : pre[j]);
+                ll cur = dp[i] - pre[i];
+                
+                if(cur > prev){
+                    mp[rem] = i;
+                }
             }
         }
-        
+
         return tot - dp[n-1];
     }
 };
