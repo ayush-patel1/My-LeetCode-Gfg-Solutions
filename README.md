@@ -11,6 +11,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0307-range-sum-query-mutable) |
@@ -354,6 +355,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
