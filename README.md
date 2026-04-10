@@ -97,6 +97,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -130,6 +131,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
