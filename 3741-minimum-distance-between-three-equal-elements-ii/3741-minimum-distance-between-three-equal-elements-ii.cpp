@@ -11,7 +11,7 @@ public:
         int ans = 1e9;
         for(int x = 1; x <= n; x++){
             auto &v = pos[x];
-            
+            //its basically 2 time of 2 smallest distance between consectuive elem
             for(int i = 0; i + 2 < v.size(); i++){
                 ans = min(ans, 2 * (v[i+2] - v[i]));
             }
