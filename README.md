@@ -523,6 +523,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0620-not-boring-movies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1193-monthly-transactions-i) |
+| [1251-average-selling-price](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1251-average-selling-price) |
 ## Design
 |  |
 | ------- |
