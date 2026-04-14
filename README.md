@@ -61,6 +61,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2420-find-all-good-indices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2420-find-all-good-indices) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2463-minimum-total-distance-traveled](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -349,6 +350,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1998-gcd-sort-of-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
+| [2463-minimum-total-distance-traveled](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -387,6 +389,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2420-find-all-good-indices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2420-find-all-good-indices) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2463-minimum-total-distance-traveled](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
