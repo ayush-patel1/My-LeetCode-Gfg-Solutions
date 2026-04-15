@@ -21,6 +21,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
@@ -111,6 +112,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0169-majority-element](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -220,6 +222,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -304,6 +307,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
