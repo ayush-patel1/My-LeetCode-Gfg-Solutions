@@ -525,6 +525,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0620-not-boring-movies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1280-students-and-examinations) |
