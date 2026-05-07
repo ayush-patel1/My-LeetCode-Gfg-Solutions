@@ -104,6 +104,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3660-jump-game-ix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -411,6 +412,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3640-trionic-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3640-trionic-array-ii) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3660-jump-game-ix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3660-jump-game-ix) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Matrix
 |  |
