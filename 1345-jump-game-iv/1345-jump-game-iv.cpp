@@ -9,19 +9,9 @@ public:
           mp[arr[i]].push_back(i);
        }
 
-       vector<vector<int>>adj(n);
-
-       for(int i=0;i<n;i++){
-
-            if(i+1<n) adj[i].push_back(i+1);
-
-            if(i-1>=0) adj[i].push_back(i-1);
-       }
-
        queue<pair<int,int>>q;
 
        vector<int>vis(n,0);
-       unordered_map<int,int>done;
 
        q.push({0,0});
 
@@ -35,19 +25,15 @@ public:
 
             if(u==n-1) return d;
 
-            for(auto &v:adj[u]){
-
-                if(!vis[v]){
-
-                    vis[v]=1;
-
-                    q.push({v,d+1});
-                }
+            if(u+1<n && !vis[u+1]){
+                vis[u+1]=1;
+                q.push({u+1,d+1});
             }
 
-            if(done[arr[u]]) continue;
-
-            done[arr[u]]=1;
+            if(u-1>=0 && !vis[u-1]){
+                vis[u-1]=1;
+                q.push({u-1,d+1});
+            }
 
             for(auto &v:mp[arr[u]]){
 
@@ -58,6 +44,8 @@ public:
                     q.push({v,d+1});
                 }
             }
+
+            mp[arr[u]].clear();
        }
 
        return -1;
