@@ -73,6 +73,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2542-maximum-subsequence-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2585-number-of-ways-to-earn-points](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2742-painting-the-walls](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2742-painting-the-walls) |
 | [2784-check-if-array-is-good](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -179,6 +180,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
+| [2542-maximum-subsequence-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -366,6 +368,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1975-maximum-matrix-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2542-maximum-subsequence-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -390,6 +393,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1998-gcd-sort-of-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2542-maximum-subsequence-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2784-check-if-array-is-good](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
