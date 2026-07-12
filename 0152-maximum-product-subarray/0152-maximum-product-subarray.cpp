@@ -1,9 +1,10 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
+        //do like kadane's algo
+        int cur=1;
         int n=nums.size();
         int mx=-1e9;
-        int cur=1;
         for(int i=0;i<n;i++){
             cur*=nums[i];
             mx=max(cur,mx);
@@ -14,7 +15,7 @@ public:
         cur=1;
         for(int i=n-1;i>=0;i--){
             cur*=nums[i];
-            mx=max(cur,mx);
+            mx=max(mx,cur);
             if(cur==0){
                 cur=1;
             }
