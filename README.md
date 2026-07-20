@@ -25,6 +25,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -239,6 +240,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -508,6 +510,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -532,6 +535,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0307-range-sum-query-mutable](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -542,6 +546,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 ## Segment Tree
 |  |
@@ -550,6 +555,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
@@ -559,6 +565,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
 ## Brainteaser
 |  |
 | ------- |
