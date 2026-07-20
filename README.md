@@ -8,6 +8,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
@@ -245,6 +246,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -451,6 +453,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
