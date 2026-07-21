@@ -650,6 +650,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
