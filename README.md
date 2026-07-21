@@ -648,6 +648,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -688,6 +689,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
