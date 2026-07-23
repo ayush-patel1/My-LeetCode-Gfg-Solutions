@@ -104,6 +104,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3531-count-covered-buildings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -275,6 +276,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -345,6 +347,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Prefix Sum
 |  |
 | ------- |
