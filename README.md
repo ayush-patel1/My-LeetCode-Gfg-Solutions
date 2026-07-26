@@ -28,6 +28,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0396-rotate-function](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -343,6 +344,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0190-reverse-bits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
+| [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1009-complement-of-base-10-integer) |
@@ -448,6 +450,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0396-rotate-function) |
+| [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -723,6 +726,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Backtracking
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Union-Find
@@ -751,4 +755,8 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
