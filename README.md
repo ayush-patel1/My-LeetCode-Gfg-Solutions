@@ -264,6 +264,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1390-four-divisors) |
@@ -453,6 +454,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
+| [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1143-longest-common-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -539,6 +541,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
