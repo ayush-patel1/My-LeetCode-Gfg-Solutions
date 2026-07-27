@@ -34,6 +34,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
@@ -264,6 +265,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
@@ -411,6 +413,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
