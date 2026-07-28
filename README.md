@@ -342,6 +342,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
@@ -431,6 +432,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -768,4 +770,8 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
