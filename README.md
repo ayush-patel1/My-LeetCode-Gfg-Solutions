@@ -6,6 +6,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -142,6 +143,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0169-majority-element) |
