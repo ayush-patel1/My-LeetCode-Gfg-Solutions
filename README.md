@@ -21,6 +21,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0189-rotate-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -709,6 +710,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0696-count-binary-substrings) |
