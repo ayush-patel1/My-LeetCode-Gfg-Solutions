@@ -14,6 +14,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -357,6 +358,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
