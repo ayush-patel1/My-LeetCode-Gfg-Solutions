@@ -57,6 +57,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -585,6 +586,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
