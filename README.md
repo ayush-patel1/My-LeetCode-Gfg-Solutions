@@ -13,6 +13,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -312,6 +313,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -514,6 +516,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
