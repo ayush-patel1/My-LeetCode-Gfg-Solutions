@@ -299,6 +299,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1513-number-of-substrings-with-only-1s](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1922-count-good-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1925-count-square-sum-triples) |
 | [1998-gcd-sort-of-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -785,6 +786,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
