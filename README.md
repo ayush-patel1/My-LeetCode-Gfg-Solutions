@@ -18,6 +18,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0136-single-number) |
@@ -378,6 +379,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
@@ -790,6 +792,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1980-find-unique-binary-string) |
