@@ -11,6 +11,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0031-next-permutation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0054-spiral-matrix) |
@@ -157,6 +158,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -541,6 +543,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
@@ -806,6 +809,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
