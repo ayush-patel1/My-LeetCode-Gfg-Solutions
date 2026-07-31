@@ -180,6 +180,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -370,6 +371,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -435,6 +437,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2542-maximum-subsequence-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
@@ -467,6 +470,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -572,6 +576,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0169-majority-element](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [2833-furthest-point-from-origin](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-count-special-triplets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
