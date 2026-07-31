@@ -23,6 +23,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -157,6 +158,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0001-two-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -343,6 +345,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0072-edit-distance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0657-robot-return-to-origin](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -501,6 +504,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0072-edit-distance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
@@ -785,6 +789,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Number Theory
 |  |
@@ -819,6 +824,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0676-implement-magic-dictionary) |
