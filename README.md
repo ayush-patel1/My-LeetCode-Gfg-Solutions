@@ -345,6 +345,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
@@ -575,6 +576,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0155-min-stack) |
