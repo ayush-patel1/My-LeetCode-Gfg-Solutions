@@ -264,6 +264,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0310-minimum-height-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0547-number-of-provinces) |
 | [0676-implement-magic-dictionary](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -284,6 +285,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0310-minimum-height-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1306-jump-game-iii) |
@@ -841,6 +843,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0547-number-of-provinces) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -882,6 +885,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0547-number-of-provinces) |
 | [1998-gcd-sort-of-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
