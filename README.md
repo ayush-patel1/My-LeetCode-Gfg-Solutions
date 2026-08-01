@@ -13,6 +13,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0054-spiral-matrix) |
@@ -467,6 +468,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -542,6 +544,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0072-edit-distance) |
