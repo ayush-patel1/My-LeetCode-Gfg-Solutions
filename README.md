@@ -47,6 +47,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -581,6 +582,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -735,6 +737,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
