@@ -1,24 +1,40 @@
 class Solution {
 public:
-    int largestRectangleArea(vector<int>& h) {
-        int n = h.size();
+    void compute(vector<int>& nse, vector<int>& pse, vector<int>& heights) {
+        int n = heights.size();
         stack<int> st;
-        int ans = 0;
-
-        for (int i = 0; i <= n; i++) {
-            int cur = (i == n ? 0 : h[i]);
-
-            while (!st.empty() && h[st.top()] > cur) {
-                int height = h[st.top()];
+        for (int i = 0; i < n; i++) {
+            while (!st.empty() && heights[st.top()] >= heights[i]) {
                 st.pop();
-
-                int left = st.empty() ? -1 : st.top();
-                int width = i - left - 1;
-
-                ans = max(ans, height * width);
+            }
+            if (!st.empty()) {
+                pse[i] = st.top();
             }
             st.push(i);
         }
-        return ans;
+        while (!st.empty()) {
+            st.pop();
+        }
+
+        for (int i = n - 1; i >= 0; i--) {
+            while (!st.empty() && heights[st.top()] >= heights[i]) {
+                st.pop();
+            }
+            if (!st.empty()) {
+                nse[i] = st.top();
+            }
+            st.push(i);
+        }
+    }
+    int largestRectangleArea(vector<int>& heights) {
+        int n = heights.size();
+        vector<int> nse(n, n), pse(n, -1);
+        compute(nse, pse, heights);
+        int max_area=0;
+        for (int i = 0; i < n; i++) {
+            int w=nse[i]-pse[i]-1;
+            max_area=max(max_area,heights[i]*w);
+        }
+        return max_area;
     }
 };
