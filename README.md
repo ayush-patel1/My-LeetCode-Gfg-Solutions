@@ -578,6 +578,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -695,6 +696,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0155-min-stack](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0232-implement-queue-using-stacks](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0676-implement-magic-dictionary](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0676-implement-magic-dictionary) |
@@ -735,6 +737,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
