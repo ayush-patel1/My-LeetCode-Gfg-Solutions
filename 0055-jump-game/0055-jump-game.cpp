@@ -4,9 +4,9 @@ public:
         int mx=0;
         int n=nums.size();
         for(int i=0;i<n;i++){
-            if(mx>=n-1) return true;
-            if(mx==i && nums[i]==0) return false;
+            if(mx<i) return false;
             mx=max(mx,nums[i]+i);
+            if(mx>=n-1) return true;
         }
         return false;
     }
