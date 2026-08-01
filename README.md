@@ -69,6 +69,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1004-max-consecutive-ones-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1306-jump-game-iii) |
@@ -183,6 +184,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0930-binary-subarrays-with-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -219,6 +221,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0904-fruit-into-baskets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -316,6 +319,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1390-four-divisors) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -432,6 +436,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
