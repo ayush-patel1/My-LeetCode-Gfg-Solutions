@@ -55,6 +55,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0503-next-greater-element-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -288,6 +289,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0310-minimum-height-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -569,6 +571,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0435-non-overlapping-intervals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0542-01-matrix) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
@@ -604,6 +607,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0054-spiral-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0994-rotting-oranges) |
