@@ -67,6 +67,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -185,6 +186,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0904-fruit-into-baskets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1345-jump-game-iv) |
@@ -223,6 +225,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -627,6 +630,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0169-majority-element](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2833-furthest-point-from-origin](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-count-special-triplets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3583-count-special-triplets) |
