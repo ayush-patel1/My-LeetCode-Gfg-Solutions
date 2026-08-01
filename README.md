@@ -170,6 +170,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0169-majority-element](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
@@ -212,6 +213,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -362,6 +364,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0402-remove-k-digits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0676-implement-magic-dictionary) |
