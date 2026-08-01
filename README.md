@@ -46,6 +46,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0396-rotate-function](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -472,6 +473,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0055-jump-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -501,6 +503,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -556,6 +559,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0486-predict-the-winner) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
