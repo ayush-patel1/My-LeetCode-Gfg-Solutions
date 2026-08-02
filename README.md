@@ -93,6 +93,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1539-kth-missing-positive-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -252,6 +253,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
@@ -277,6 +279,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
@@ -301,6 +304,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1306-jump-game-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1345-jump-game-iv) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -619,6 +623,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -690,6 +695,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1539-kth-missing-positive-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
@@ -903,6 +909,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0547-number-of-provinces) |
+| [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1998-gcd-sort-of-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
