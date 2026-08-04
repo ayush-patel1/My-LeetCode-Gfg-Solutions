@@ -60,6 +60,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0560-subarray-sum-equals-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -586,6 +587,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0486-predict-the-winner](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0542-01-matrix) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -731,6 +733,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 ## Segment Tree
 |  |
@@ -740,6 +743,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
@@ -964,4 +968,8 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0743-network-delay-time](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
