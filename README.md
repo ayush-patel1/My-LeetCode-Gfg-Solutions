@@ -40,6 +40,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0283-move-zeroes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
@@ -582,6 +583,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0152-maximum-product-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0410-split-array-largest-sum) |
