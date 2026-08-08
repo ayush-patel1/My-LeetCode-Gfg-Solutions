@@ -441,6 +441,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -518,6 +519,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
 ## Sorting
@@ -617,6 +619,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3640-trionic-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3640-trionic-array-ii) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3660-jump-game-ix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3660-jump-game-ix) |
@@ -876,6 +879,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph Theory
 |  |
