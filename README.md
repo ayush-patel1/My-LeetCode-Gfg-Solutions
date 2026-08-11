@@ -133,6 +133,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2906-construct-product-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -212,6 +213,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2784-check-if-array-is-good](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -549,6 +551,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2784-check-if-array-is-good](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
