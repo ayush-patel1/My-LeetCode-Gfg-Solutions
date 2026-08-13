@@ -7,6 +7,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0031-next-permutation) |
@@ -515,6 +516,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0402-remove-k-digits) |
@@ -897,6 +899,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
