@@ -7,6 +7,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -545,6 +546,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0169-majority-element) |
@@ -895,6 +897,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0031-next-permutation) |
