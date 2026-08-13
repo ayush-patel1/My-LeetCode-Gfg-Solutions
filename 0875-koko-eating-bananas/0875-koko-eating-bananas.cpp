@@ -15,7 +15,7 @@ public:
 
         while (l <= r) {
             int mid = l + (r - l) / 2;
-
+            
             if (check(piles, mid, h)) {
                 ans = mid;
                 r = mid - 1;
