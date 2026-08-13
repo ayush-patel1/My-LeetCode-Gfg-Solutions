@@ -290,6 +290,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0200-number-of-islands](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0310-minimum-height-trees) |
 | [0437-path-sum-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -843,6 +844,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -858,6 +860,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1034,4 +1037,12 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0207-course-schedule) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
