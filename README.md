@@ -423,6 +423,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
@@ -604,6 +605,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0053-maximum-subarray) |
@@ -967,6 +969,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0090-subsets-ii) |
@@ -1045,4 +1048,8 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
