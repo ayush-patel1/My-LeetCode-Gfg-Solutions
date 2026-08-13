@@ -15,6 +15,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0042-trapping-rain-water](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0055-jump-game) |
@@ -185,6 +186,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0001-two-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -413,6 +415,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -538,6 +541,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
