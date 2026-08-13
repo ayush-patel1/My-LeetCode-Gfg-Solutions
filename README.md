@@ -118,6 +118,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2420-find-all-good-indices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2420-find-all-good-indices) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
@@ -345,6 +346,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0327-count-of-range-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -437,6 +439,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2288-apply-discount-to-prices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2288-apply-discount-to-prices) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -763,6 +766,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
