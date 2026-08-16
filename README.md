@@ -69,6 +69,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -707,6 +708,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0232-implement-queue-using-stacks](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -879,6 +881,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
