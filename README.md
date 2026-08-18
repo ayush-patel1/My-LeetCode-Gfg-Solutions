@@ -158,6 +158,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3453-separate-squares-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -229,6 +230,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3583-count-special-triplets) |
