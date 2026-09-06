@@ -439,6 +439,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0049-group-anagrams](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -629,6 +630,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0055-jump-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
