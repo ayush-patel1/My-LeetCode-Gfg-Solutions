@@ -412,6 +412,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
+| [3871-count-commas-in-range-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
