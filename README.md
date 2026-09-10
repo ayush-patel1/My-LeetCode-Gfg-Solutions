@@ -318,6 +318,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -878,6 +879,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -893,6 +895,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Stack
 |  |
 | ------- |
