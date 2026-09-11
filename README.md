@@ -161,6 +161,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3453-separate-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -236,6 +237,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3583-count-special-triplets) |
@@ -617,6 +619,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1925-count-square-sum-triples](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -995,6 +998,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0486-predict-the-winner](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
