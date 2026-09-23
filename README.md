@@ -190,6 +190,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3875-construct-uniform-parity-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
@@ -434,6 +435,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## String
 |  |
 | ------- |
@@ -713,6 +715,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3546-equal-sum-grid-partition-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Geometry
 |  |
 | ------- |
