@@ -167,6 +167,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3531-count-covered-buildings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3583-count-special-triplets) |
@@ -410,6 +411,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
