@@ -470,6 +470,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -740,6 +741,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0503-next-greater-element-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0901-online-stock-span) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Counting
@@ -1093,4 +1095,5 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
