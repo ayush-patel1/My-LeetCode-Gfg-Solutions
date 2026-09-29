@@ -127,6 +127,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2420-find-all-good-indices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2420-find-all-good-indices) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
@@ -674,6 +675,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2420-find-all-good-indices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2420-find-all-good-indices) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
@@ -713,6 +715,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1895-largest-magic-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1096,4 +1099,5 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
