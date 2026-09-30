@@ -465,6 +465,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -744,6 +745,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0503-next-greater-element-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0901-online-stock-span) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -1098,6 +1100,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0022-generate-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
