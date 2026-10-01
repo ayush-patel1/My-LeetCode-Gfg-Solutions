@@ -101,6 +101,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -600,6 +601,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0767-reorganize-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0767-reorganize-string) |
 | [1200-minimum-absolute-difference](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -791,6 +793,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1539-kth-missing-positive-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
