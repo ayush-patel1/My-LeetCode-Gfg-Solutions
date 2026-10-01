@@ -195,6 +195,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
@@ -257,6 +258,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,6 +281,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
