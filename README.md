@@ -195,6 +195,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4062-transform-array-using-pair-operations](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4062-transform-array-using-pair-operations) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
 ## Hash Table
@@ -855,6 +856,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [4062-transform-array-using-pair-operations](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4062-transform-array-using-pair-operations) |
 ## Combinatorics
 |  |
 | ------- |
