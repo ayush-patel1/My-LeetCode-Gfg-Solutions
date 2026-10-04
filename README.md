@@ -466,6 +466,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0657-robot-return-to-origin](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0676-implement-magic-dictionary) |
+| [0678-valid-parenthesis-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0767-reorganize-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -566,6 +567,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0435-non-overlapping-intervals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0767-reorganize-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -670,6 +672,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0542-01-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0542-01-matrix) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -752,6 +755,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0232-implement-queue-using-stacks](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0901-online-stock-span) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1112,6 +1116,7 @@ This repository includes my solution of various questions on LC and GFG.
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
