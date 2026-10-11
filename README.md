@@ -396,6 +396,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0486-predict-the-winner](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
@@ -796,6 +797,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0410-split-array-largest-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -987,6 +989,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0283-move-zeroes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0696-count-binary-substrings) |
 | [1768-merge-strings-alternately](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
