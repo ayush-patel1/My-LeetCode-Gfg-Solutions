@@ -137,6 +137,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2542-maximum-subsequence-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2585-number-of-ways-to-earn-points](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2742-painting-the-walls](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2742-painting-the-walls) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
@@ -638,6 +639,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
