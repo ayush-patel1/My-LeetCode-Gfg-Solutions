@@ -108,6 +108,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -539,6 +540,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1009-complement-of-base-10-integer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -708,6 +710,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1073,6 +1076,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0090-subsets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1980-find-unique-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Union-Find
 |  |
@@ -1113,6 +1117,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Counting Sort
 |  |
 | ------- |
