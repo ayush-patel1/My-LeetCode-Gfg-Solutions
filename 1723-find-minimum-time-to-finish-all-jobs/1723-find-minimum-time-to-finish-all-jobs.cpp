@@ -19,7 +19,7 @@ public:
     }
 
     int minimumTimeRequired(vector<int>& jobs, int k) {
-        sort(jobs.rbegin(), jobs.rend());
+        // sort(jobs.rbegin(), jobs.rend());
         int l = *max_element(jobs.begin(), jobs.end());
         int r = accumulate(jobs.begin(), jobs.end(), 0);
         int ans = r;
