@@ -521,6 +521,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
