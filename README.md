@@ -117,6 +117,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1895-largest-magic-square) |
+| [1898-maximum-number-of-removable-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -499,6 +500,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1768-merge-strings-alternately](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1898-maximum-number-of-removable-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1980-find-unique-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -829,6 +831,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1552-magnetic-force-between-two-balls](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1898-maximum-number-of-removable-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -1016,6 +1019,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1768-merge-strings-alternately](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1898-maximum-number-of-removable-characters](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
