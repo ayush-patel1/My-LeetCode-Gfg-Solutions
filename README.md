@@ -125,6 +125,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1998-gcd-sort-of-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2050-parallel-courses-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2050-parallel-courses-iii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -712,6 +713,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2050-parallel-courses-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2050-parallel-courses-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1034,6 +1036,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0547-number-of-provinces](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2050-parallel-courses-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1104,6 +1107,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0207-course-schedule](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0310-minimum-height-trees) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2050-parallel-courses-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Rolling Hash
 |  |
@@ -1143,6 +1147,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0207-course-schedule) |
+| [2050-parallel-courses-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2050-parallel-courses-iii) |
 ## Binary Lifting
 |  |
 | ------- |
