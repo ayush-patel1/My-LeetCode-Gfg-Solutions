@@ -1,78 +1,58 @@
 class Solution {
 public:
-    int cal(vector<int>& v){
-        int n=v.size();
+    int solve(vector<int>& nums) {
+        vector<int> v = nums;
 
-        int ans=1e9;
+        for (int i : nums) {
+            v.push_back(i);
+        }
 
-        //increasing->0
-        bool inc=true;
+        int count = 1;
+        int n = nums.size();
 
-        for(int i=1;i<n;i++){
-            if(v[i]<v[i-1]){
-                inc=false;
-                break;
+        // First increasing
+
+        for (int i = 1; i < v.size(); i++) {
+
+            if (v[i] < v[i - 1]) {
+                count = 1;
+            } else {
+                count++;
+
+                if (count == n) {
+                    return (i + 1) - n;
+                }
             }
         }
 
-        if(inc) ans=min(ans,0);
+        // Decreasing Case
+        count = 1;
+        for (int i = 1; i < v.size(); i++) {
 
-        //descreasing->1
-        bool dec=true;
+            if (v[i] > v[i - 1]) {
+                count = 1;
+            } else {
+                count++;
 
-        for(int i=1;i<n;i++){
-            if(v[i]>v[i-1]){
-                dec=false;
-                break;
+                if (count == n) {
+                    return i + 2 - n;
+                }
             }
         }
 
-        if(dec) ans=min(ans,1);
-
-        //increasing then again increasing with last elem<first->1
-        int cnt1=0,pos1=-1;
-
-        for(int i=1;i<n;i++){
-            if(v[i]<v[i-1]){
-                cnt1++;
-                pos1=i;
-            }
-        }
-
-        if(cnt1==1 && v[n-1]<v[0]){
-            ans=min(ans,pos1);
-        }
-
-        //decrasing then again decreasing with first elem<last_elem then reverse->2
-        int cnt2=0,pos2=-1;
-
-        for(int i=1;i<n;i++){
-            if(v[i]>v[i-1]){
-                cnt2++;
-                pos2=i;
-            }
-        }
-
-        if(cnt2==1 && v[0]<v[n-1]){
-            ans=min(ans,pos2+1);
-        }
-
-        return ans;
+        return 1e9;
     }
-
     int minOperations(vector<int>& nums) {
 
-        vector<int> dranofelik=nums;
+        if (nums.size() == 1) {
+            return 0;
+        }
+        int ans = solve(nums);
 
-        vector<int> v1=nums;
+        reverse(nums.begin(), nums.end());
 
-        vector<int> v2=nums;
-        reverse(v2.begin(),v2.end());
+        ans = min(ans, solve(nums) + 1);
 
-        int ans=min(cal(v1),cal(v2)+1);
-
-        if(ans>=1e9) return -1;
-
-        return ans;
+        return ans == 1e9 ? -1 : ans;
     }
 };
