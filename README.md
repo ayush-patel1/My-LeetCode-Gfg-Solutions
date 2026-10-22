@@ -1168,4 +1168,8 @@ This repository includes my solution of various questions on LC and GFG.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
