@@ -61,6 +61,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0485-max-consecutive-ones](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -706,6 +707,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0435-non-overlapping-intervals](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0542-01-matrix) |
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -1096,6 +1098,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1980-find-unique-binary-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -1197,8 +1200,13 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
