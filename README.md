@@ -22,6 +22,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0053-maximum-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -684,6 +685,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0053-maximum-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
@@ -745,6 +747,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0037-sudoku-solver](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0200-number-of-islands) |
