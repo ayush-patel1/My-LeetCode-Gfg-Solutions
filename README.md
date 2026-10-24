@@ -72,6 +72,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0731-my-calendar-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -709,6 +710,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0664-strange-printer](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0741-cherry-pickup](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0741-cherry-pickup) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -755,6 +757,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0200-number-of-islands](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0741-cherry-pickup) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0994-rotting-oranges) |
