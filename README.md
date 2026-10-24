@@ -403,6 +403,7 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0396-rotate-function) |
@@ -680,6 +681,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0045-jump-game-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0115-distinct-subsequences) |
@@ -1054,6 +1056,7 @@ This repository includes my solution of various questions on LC and GFG.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0139-word-break) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
 ## Number Theory
