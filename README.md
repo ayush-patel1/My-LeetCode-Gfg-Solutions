@@ -1193,4 +1193,12 @@ This repository includes my solution of various questions on LC and GFG.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0455-assign-cookies) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
