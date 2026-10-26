@@ -191,6 +191,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3583-count-special-triplets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -355,6 +356,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -381,6 +383,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3863-power-grid-maintenance](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -786,6 +789,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Geometry
@@ -1116,6 +1120,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1998-gcd-sort-of-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
