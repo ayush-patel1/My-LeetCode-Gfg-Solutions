@@ -147,6 +147,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2542-maximum-subsequence-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2585-number-of-ways-to-earn-points](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2742-painting-the-walls](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2742-painting-the-walls) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -254,6 +255,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2080-range-frequency-queries](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2080-range-frequency-queries) |
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2784-check-if-array-is-good](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -558,6 +560,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -583,6 +586,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2420-find-all-good-indices](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2420-find-all-good-indices) |
 | [2439-minimize-maximum-of-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2906-construct-product-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
