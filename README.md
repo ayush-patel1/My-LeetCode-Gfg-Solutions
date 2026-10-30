@@ -727,6 +727,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0741-cherry-pickup) |
+| [0799-champagne-tower](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0799-champagne-tower) |
 | [0813-largest-sum-of-averages](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [0887-super-egg-drop](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0931-minimum-falling-path-sum) |
