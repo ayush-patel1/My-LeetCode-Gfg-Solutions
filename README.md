@@ -203,6 +203,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3660-jump-game-ix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -761,6 +762,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3640-trionic-array-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3640-trionic-array-ii) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3660-jump-game-ix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
@@ -801,6 +803,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Geometry
