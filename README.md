@@ -207,6 +207,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3660-jump-game-ix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
@@ -460,6 +461,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
