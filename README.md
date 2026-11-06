@@ -151,6 +151,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2585-number-of-ways-to-earn-points](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2742-painting-the-walls](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2742-painting-the-walls) |
+| [2747-count-zero-request-servers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -260,6 +261,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2424-longest-uploaded-prefix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2424-longest-uploaded-prefix) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -303,6 +305,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2747-count-zero-request-servers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -670,6 +673,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [2092-find-all-people-with-secret](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2542-maximum-subsequence-score](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2747-count-zero-request-servers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
