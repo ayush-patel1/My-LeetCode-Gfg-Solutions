@@ -99,6 +99,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1248-count-number-of-nice-subarrays](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1306-jump-game-iii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -354,6 +355,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -386,6 +388,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1345-jump-game-iv) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -794,6 +797,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0994-rotting-oranges](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -851,6 +855,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0621-task-scheduler](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2833-furthest-point-from-origin](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-count-special-triplets](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3583-count-special-triplets) |
@@ -1144,6 +1149,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [0200-number-of-islands](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1998-gcd-sort-of-an-array](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
