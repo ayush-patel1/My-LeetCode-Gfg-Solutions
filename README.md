@@ -471,6 +471,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3850-count-sequences-to-k](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3850-count-sequences-to-k) |
 | [3871-count-commas-in-range-ii](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -647,6 +648,7 @@ This repository includes my solution of various questions on LC and GFG.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ayush-patel1/My-LeetCode-Gfg-Solutions/tree/master/4112-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
